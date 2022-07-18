@@ -3,3 +3,4 @@ touch file1
 mkdir project
 echo "Welcome"
 echo "feature1"
+echo "feature2"
