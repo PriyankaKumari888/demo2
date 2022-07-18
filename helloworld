@@ -1,2 +1,4 @@
 echo "Hello world"
 touch file1
+mkdir project
+echo "Welcome"
